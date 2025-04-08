@@ -8,7 +8,7 @@ images, labels = load_dataset()
 
 learning_rate = 0.01
 
-model = load_model("soakers")
+model = load_model("mnistic")
 
 app = Flask(__name__)
 
